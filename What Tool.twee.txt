@@ -1,0 +1,214 @@
+:: StoryTitle
+What Tool
+
+
+:: StoryData
+{
+  "ifid": "81128A16-CCF7-4CAA-A944-2D40C9F7B276",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: 12/2 MC Cable {"position":"525,1000","size":"100,100"}
+Correct!
+
+[[click here to continue]] 
+
+
+:: 12/3 MC Cable {"position":"700,975","size":"100,100"}
+Wrong
+
+Go back
+
+
+:: Click here to continue {"position":"650,1875","size":"100,100"}
+What was it that we were installing?
+
+[[receptacle]]
+[[GFCI receptacle]]
+
+
+:: Click here to continue with the task {"position":"450,600","size":"100,100"}
+Now that you have your material, you looked at your print and now know the install location and height. What tool do you need to measure for your height?
+
+[[a ruler works]]
+[[a measuring tape]]
+
+
+:: GFCI receptacle {"position":"775,2000","size":"100,100"}
+Wrong
+
+Go Back
+
+
+:: Untitled Passage {"position":"450,275","size":"100,100"}
+You are at a new construction jobsite and you have to install a receptacle. The first thing you should do is
+
+[[gather your material]]
+[[take a restroom break]]
+
+
+:: a measuring tape {"position":"575,725","size":"100,100"}
+Correct!
+
+[[click here to continue with your installation]]
+
+
+:: a ruler works {"position":"450,725","size":"100,100"}
+Wrong
+
+Go Back
+
+
+:: antishort {"position":"650,1500","size":"100,100"}
+Correct!
+
+An antishort protects your wires from the sharp mc sheathing
+
+[[click here]]
+
+
+:: black {"position":"900,2500","size":"100,100"}
+Wrong
+
+Go Back
+
+
+:: channel locks {"position":"650,1750","size":"100,100"}
+Correct!
+
+Now that your connectors are in both boxes, you can install the mc cable into each box
+
+[[Click here to continue]]
+
+
+:: click here {"position":"650,1625","size":"100,100"}
+Once the antishort is in, you now need to install and MC Connector to the box at each end of the MC Cable. What tool is best for tighening a connector to a box?
+
+[[lineman]] 
+[[channel locks]]
+
+
+:: click here\  {"position":"650,2125","size":"100,100"}
+You have connected your green wire to the ground terminal. What screw does your neutral conductor terminate on?
+
+[[gold screw]]
+[[silver screw]]
+
+
+:: click here for next step {"position":"650,1375","size":"100,100"}
+Now that you have removed the sheathing from your MC Cable to expose your conductors, what material should you install between the sheathing and the wires?
+
+[[antishort]]
+[[short-stopper]]
+
+
+:: click here for the next step {"position":"775,2625","size":"100,100"}
+You have installed your mudring and now you must screw your receptacle on to the box. What tool will you use?
+
+[[flat head screwdriver]]
+[[hex nut screwdriver]]
+
+
+:: click here to continue {"position":"525,1125","size":"100,100"}
+You have installed your 12/2 MC from your 1900 box to your overhead HR box. Now you have to install both ends into the box. What tool do you use to remove the sheathing from the MC cable?
+
+[[lineman pliers]]
+[[rotosplit]]
+
+
+:: click here to continue with your installation {"position":"575,850","size":"100,100"}
+Now that you marked the studs for your bracket height, now you need to install your MC Cable. What MC Cable should you use to bring power to your receptacle?
+
+[[12/2 MC Cable]]
+[[12/3 MC Cable]]
+
+
+:: click here to finish the task {"position":"775,2875","size":"100,100"}
+This task is now complete, go find your foreman to find out your next task!
+
+
+:: click here to terminate your hot conductor {"position":"775,2375","size":"100,100"}
+You have just the hot conductor left and one terminal remaining on the receptacle. What color is that terminal?
+
+[[gold]]
+[[black]]
+
+
+:: flat head screwdriver {"position":"775,2750","size":"100,100"}
+Correct!
+
+[[click here to finish the task]]
+
+
+:: gather your material {"position":"450,475","size":"100,100"}
+Correct!
+
+[[Click here to continue with the task]]
+
+
+:: gold {"position":"775,2500","size":"100,100"}
+Correct!
+
+All conductors are now terminated on your receptacle!
+
+[[click here for the next step]]
+
+
+:: gold screw {"position":"650,2250","size":"100,100"}
+Wrong
+
+Go Back
+
+
+:: hex nut screwdriver {"position":"900,2750","size":"100,100"}
+Wrong
+
+Go Back
+
+
+:: lineman {"position":"775,1750","size":"100,100"}
+Wrong
+
+Go Back
+
+
+:: lineman pliers {"position":"525,1250","size":"100,100"}
+Wrong
+
+Go back
+
+
+:: receptacle {"position":"650,2000","size":"100,100"}
+Correct!
+
+Now that we remembered which device we are installing...
+
+[[click here ]]
+
+
+:: rotosplit {"position":"650,1250","size":"100,100"}
+Correct!
+
+[[click here for next step]]
+
+
+:: short-stopper {"position":"775,1500","size":"100,100"}
+Wrong
+
+Go Back
+
+
+:: silver screw {"position":"775,2250","size":"100,100"}
+Correct!
+
+[[click here to terminate your hot conductor]]
+
+
+:: take a restroom break {"position":"575,475","size":"100,100"}
+Wrong
+
+Go Back
